@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/EhsanTgv/AndroidStudioProjects/WordAppTest/app/src/main/res/drawable/ic_grid_layout.xml" value="0.2203125" />
+        <entry key="..\:/Users/EhsanTgv/AndroidStudioProjects/WordAppTest/app/src/main/res/drawable/ic_linear_layout.xml" value="0.2203125" />
         <entry key="..\:/Users/EhsanTgv/AndroidStudioProjects/WordAppTest/app/src/main/res/layout/activity_detail.xml" value="0.1" />
         <entry key="..\:/Users/EhsanTgv/AndroidStudioProjects/WordAppTest/app/src/main/res/layout/activity_main.xml" value="0.15789473684210525" />
         <entry key="..\:/Users/EhsanTgv/AndroidStudioProjects/WordAppTest/app/src/main/res/layout/item_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/EhsanTgv/AndroidStudioProjects/WordAppTest/app/src/main/res/menu/layout_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
